@@ -7,3 +7,6 @@ build:
   artifacts:
     paths:
       - "*.pdf"
+  rules:
+    - changes:
+      - dissertation/*
