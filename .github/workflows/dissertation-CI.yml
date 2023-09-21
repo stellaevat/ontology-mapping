@@ -1,0 +1,23 @@
+name: dissertation-CI
+
+on:
+  push:
+    branches: [ "dissertation" ]
+  pull_request:
+    branches: [ "dissertation" ]
+
+  # Allows to run workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: blang/latex
+    steps:
+      - name: Make pdf from tex file
+        run: latexmk -pdf dissertation/*.tex
+      - name: Upload resulting pdf
+        uses: actions/upload-artifact@v3
+        with:
+          name: dissertation
+          path: dissertation/*.pdf
