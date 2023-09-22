@@ -1,6 +1,6 @@
 # Timelog
 
-* **Project name:** Using BERT models to align biomedical ontologies
+* **Project title:** Using BERT models to align biomedical ontologies
 * **Student name:** Stella Eva Tsiapali
 * **Student GUID:** 2526934t
 * **Supervisor name:** Dr Jake Lever
