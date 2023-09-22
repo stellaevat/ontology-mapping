@@ -1,9 +1,9 @@
 # Timelog
 
-* PROJECT NAME
-* YOUR NAME
-* STUDENT_ID
-* SUPERVISOR NAME
+* **Project name:** Using BERT models to align biomedical ontologies
+* **Student name:** Stella Eva Tsiapali
+* **Student GUID:** 2526934t
+* **Supervisor name:** Dr Jake Lever
 
 ## Guidance
 
@@ -14,13 +14,14 @@
 
 ## Week 1
 
-### 19 Oct 2019
+### 20 Sept 2023
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+* *0.5 hour* First supervisor meeting
+* *0.5 hour* Going through supervisor's guide for the project
 
-## 20 Oct 2019
+## 21 Sept 2023
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+* *2 hours* Online guidance lecture
+* *2 hours* Going through entire project Moodle to read all instructions/guidance
+* *1 hour* Making GitHub repo & wiki with suggested structure
+* *5 hours* Trying & failing at making a pipeline for compiling the dissertation pdf
