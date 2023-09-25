@@ -25,3 +25,10 @@
 * *2 hours* Going through entire project Moodle to read all instructions/guidance
 * *1 hour* Making GitHub repo & wiki with suggested structure
 * *5 hours* Trying & failing at making a pipeline for compiling the dissertation pdf
+
+## 22 Sept 2023
+* *2 hours* reading/analysing paper from proposal
+  
+## 24 Sept 2023
+* *2 hours* reading relevant papers
+* *0.5 hour* finding access to ontologies for project dataset
