@@ -32,3 +32,6 @@
 ## 24 Sept 2023
 * *2 hours* reading relevant papers
 * *0.5 hour* finding access to ontologies for project dataset
+
+## 25 Sept 2023
+* *0.5 hour* preparing agenda for supervisor meeting
