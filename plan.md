@@ -10,8 +10,8 @@ Week-by-week plan for the whole project. Update this as you go along.
 ## Winter semester
 
 * **Week 1** Set up repo & survey literature
-* **Week 2**
-* **Week 3**
+* **Week 2** Continue literature survey & look at datasets used
+* **Week 3** Begin basic implementation (e.g. data loading) & literature survey
 * **Week 4**
 * **Week 5**
 * **Week 6**
