@@ -17,21 +17,42 @@
 ### 20 Sept 2023
 
 * *0.5 hour* First supervisor meeting
+* *1 hour* Writing meeting minutes
 * *0.5 hour* Going through supervisor's guide for the project
 
-## 21 Sept 2023
+### 21 Sept 2023
 
 * *2 hours* Online guidance lecture
 * *2 hours* Going through entire project Moodle to read all instructions/guidance
 * *1 hour* Making GitHub repo & wiki with suggested structure
 * *5 hours* Trying & failing at making a pipeline for compiling the dissertation pdf
 
-## 22 Sept 2023
-* *2 hours* reading/analysing paper from proposal
-  
-## 24 Sept 2023
-* *2 hours* reading relevant papers
-* *0.5 hour* finding access to ontologies for project dataset
+### 22 Sept 2023
+* *2 hours* Reading/analysing paper from proposal
 
-## 25 Sept 2023
-* *0.5 hour* preparing agenda for supervisor meeting
+## Week 2
+
+### 25 Sept 2023
+* *2 hours* Reading relevant papers
+* *0.5 hour* Finding access to ontologies for project dataset
+* *0.5 hour* Preparing agenda for supervisor meeting
+
+### 26 Sept 2023
+* *0.5 hour* Supervisor meeting
+* *2 hours* Writing meeting minutes (fighting with the formatting of the Moodle minutes box)
+
+## 27 Sept 2023
+* *3 hours* Literature surveying
+
+### 1 Oct 2023
+* *4 hours* Literature surveying
+
+## Week 3
+
+### 2 Oct 2023
+* *0.5 hours* Preparing agenda for supervisor meeting
+
+### 3 Oct 2023
+* *0.5 hours* Supervisor meeting
+* *0.5 hours* Updating timelog & plan
+* *1 hours* Writing meeting minutes
