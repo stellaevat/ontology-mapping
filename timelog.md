@@ -41,7 +41,7 @@
 * *0.5 hour* Supervisor meeting
 * *2 hours* Writing meeting minutes (fighting with the formatting of the Moodle minutes box)
 
-## 27 Sept 2023
+### 27 Sept 2023
 * *3 hours* Literature surveying
 
 ### 1 Oct 2023
@@ -50,9 +50,34 @@
 ## Week 3
 
 ### 2 Oct 2023
-* *0.5 hours* Preparing agenda for supervisor meeting
+* *0.5 hour* Preparing agenda for supervisor meeting
 
 ### 3 Oct 2023
-* *0.5 hours* Supervisor meeting
-* *0.5 hours* Updating timelog & plan
-* *1 hours* Writing meeting minutes
+* *0.5 hour* Supervisor meeting
+* *0.5 hour* Updating timelog & plan
+* *1 hour* Writing meeting minutes
+
+### 7 Oct 2023
+* *4 hours* Literature surveying
+
+### 8 Oct 2023
+* *4.5 hours* Literature surveying
+
+## Week 4
+
+### 13 Oct 2023
+* *2 hours* Looking into Gene Ontology (GO) structure & OWL format
+* *3 hours* Going through Chen et al. and their GitHub codebase
+
+### 14 Oct 2023
+* *2 hours* Going through the Chen et al. GitHub codebase
+* *1 hour* Making installations based on Chen et al. and trying (and failing) to get CUDA to work 
+
+### 14 Oct 2023
+*  *2 hours* Trying (and failing) to get CUDA to work
+
+## Week 5
+
+### 19 Oct 2023
+* *1 hour* Writing meeting minutes
+* *0.5 hour* Updating timelog
