@@ -65,11 +65,11 @@
 
 ## Week 4
 
-### 13 Oct 2023
+### 12 Oct 2023
 * *2 hours* Looking into Gene Ontology (GO) structure & OWL format
 * *3 hours* Going through Chen et al. and their GitHub codebase
 
-### 14 Oct 2023
+### 13 Oct 2023
 * *2 hours* Going through the Chen et al. GitHub codebase
 * *1 hour* Making installations based on Chen et al. and trying (and failing) to get CUDA to work 
 
