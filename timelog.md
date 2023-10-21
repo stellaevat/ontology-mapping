@@ -1,9 +1,9 @@
 # Timelog
 
-* PROJECT NAME
-* YOUR NAME
-* STUDENT_ID
-* SUPERVISOR NAME
+* **Project title:** Using BERT models to align biomedical ontologies
+* **Student name:** Stella Eva Tsiapali
+* **Student GUID:** 2526934t
+* **Supervisor name:** Dr Jake Lever
 
 ## Guidance
 
@@ -14,13 +14,70 @@
 
 ## Week 1
 
-### 19 Oct 2019
+### 20 Sept 2023
 
-* *4 hours* Read the project guidance notes
-* *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
-* *1 hour* Modified dissertation template, compiled  
+* *0.5 hour* First supervisor meeting
+* *1 hour* Writing meeting minutes
+* *0.5 hour* Going through supervisor's guide for the project
 
-## 20 Oct 2019
+### 21 Sept 2023
 
-* *1 hour* meeting with supervisor
-* *2 hours* writing initial version of test harness
+* *2 hours* Online guidance lecture
+* *2 hours* Going through entire project Moodle to read all instructions/guidance
+* *1 hour* Making GitHub repo & wiki with suggested structure
+* *5 hours* Trying & failing at making a pipeline for compiling the dissertation pdf
+
+### 22 Sept 2023
+* *2 hours* Reading/analysing paper from proposal
+
+## Week 2
+
+### 25 Sept 2023
+* *2 hours* Reading relevant papers
+* *0.5 hour* Finding access to ontologies for project dataset
+* *0.5 hour* Preparing agenda for supervisor meeting
+
+### 26 Sept 2023
+* *0.5 hour* Supervisor meeting
+* *2 hours* Writing meeting minutes (fighting with the formatting of the Moodle minutes box)
+
+### 27 Sept 2023
+* *3 hours* Literature surveying
+
+### 1 Oct 2023
+* *4 hours* Literature surveying
+
+## Week 3
+
+### 2 Oct 2023
+* *0.5 hour* Preparing agenda for supervisor meeting
+
+### 3 Oct 2023
+* *0.5 hour* Supervisor meeting
+* *0.5 hour* Updating timelog & plan
+* *1 hour* Writing meeting minutes
+
+### 7 Oct 2023
+* *4 hours* Literature surveying
+
+### 8 Oct 2023
+* *4.5 hours* Literature surveying
+
+## Week 4
+
+### 12 Oct 2023
+* *2 hours* Looking into Gene Ontology (GO) structure & OWL format
+* *3 hours* Going through Chen et al. and their GitHub codebase
+
+### 13 Oct 2023
+* *2 hours* Going through the Chen et al. GitHub codebase
+* *1 hour* Making installations based on Chen et al. and trying (and failing) to get CUDA to work 
+
+### 14 Oct 2023
+*  *2 hours* Trying (and failing) to get CUDA to work
+
+## Week 5
+
+### 19 Oct 2023
+* *1 hour* Writing meeting minutes
+* *0.5 hour* Updating timelog

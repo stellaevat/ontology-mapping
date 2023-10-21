@@ -1,17 +1,17 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* **Project title:** Using BERT models to align biomedical ontologies
+* **Student name:** Stella Eva Tsiapali
+* **Student GUID:** 2526934t
+* **Supervisor name:** Dr Jake Lever
 
 Week-by-week plan for the whole project. Update this as you go along.
 
 ## Winter semester
 
-* **Week 1**
-* **Week 2**
-* **Week 3**
+* **Week 1** Set up repo & survey literature
+* **Week 2** Continue literature survey & look at datasets used
+* **Week 3** Begin basic implementation (e.g. data loading) & literature survey
 * **Week 4**
 * **Week 5**
 * **Week 6**
@@ -19,8 +19,9 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 8**
 * **Week 9**
 * **Week 10**
-* **Week 11 [PROJECT WEEK]**
-* **Week 12 [PROJECT WEEK]** Status report submitted.
+* **Week 11**
+* **Week 12 [PROJECT WEEK]**
+* **Week 13 [PROJECT WEEK]** Status report submitted.
 
 ## Winter break
 
