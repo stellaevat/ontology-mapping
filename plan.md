@@ -10,10 +10,10 @@ Week-by-week plan for the whole project. Update this as you go along.
 ## Winter semester
 
 * **Week 1** Set up repo & survey literature
-* **Week 2** Continue literature survey & look at datasets used
-* **Week 3** Begin basic implementation (e.g. data loading) & literature survey
-* **Week 4**
-* **Week 5**
+* **Week 2** Continue literature survey & pay attention to datasets used
+* **Week 3** Explore specific datasets/how to work with them & literature survey
+* **Week 4** Study BERTSubs code & literature survey
+* **Week 5** Begin basic implementation (e.g. data loading, relation extraction)
 * **Week 6**
 * **Week 7**
 * **Week 8**

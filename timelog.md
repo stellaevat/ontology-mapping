@@ -78,6 +78,13 @@
 
 ## Week 5
 
+### 17 Oct 2023
+* *0.5 hour* Supervisor meeting
+
 ### 19 Oct 2023
 * *1 hour* Writing meeting minutes
 * *0.5 hour* Updating timelog
+
+### 21 Oct 2023
+* *2.5 hours* Experimenting with pronto & owlready2 to load and handle NCIT/DOID data
+* *2.5 hours* Parsing data and extracting existing inter-ontology subsumption relations
