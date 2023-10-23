@@ -88,3 +88,6 @@
 ### 21 Oct 2023
 * *2.5 hours* Experimenting with pronto & owlready2 to load and handle NCIT/DOID data
 * *2.5 hours* Parsing data and extracting existing inter-ontology subsumption relations
+
+### 22 Oct 2023
+* *5.5 hours* Writing extracted subsumptions to files, tidying up colab & thinking about next steps
