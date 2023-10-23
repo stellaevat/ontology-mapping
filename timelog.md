@@ -90,4 +90,8 @@
 * *2.5 hours* Parsing data and extracting existing inter-ontology subsumption relations
 
 ### 22 Oct 2023
-* *5.5 hours* Writing extracted subsumptions to files, tidying up colab & thinking about next steps
+* *1 hour* Figuring out how to version control with Colabs
+* *0.5 hour* Writing extracted subsumptions to files
+* *1.5 hours* Tidying up code & separating everything into methods 
+* *2 hours* Researching entity markers & applying findings
+* *0.5 hour* Thinking about next steps with entity markers and embeddings
