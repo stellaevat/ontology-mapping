@@ -95,3 +95,34 @@
 * *1.5 hours* Tidying up code & separating everything into methods 
 * *2 hours* Researching entity markers & applying findings
 * *0.5 hour* Thinking about next steps with entity markers and embeddings
+
+## Week 6
+
+### 24 Oct 2023
+* *0.5 hour* Supervisor meeting
+* *1 hour* Writing meeting minutes
+* *0.5 hour* Updating timelog
+
+### 29 Oct 2023
+* *0.5 hour* Going through Colab with tokenization tricks
+* *0.5 hour* Splitting code into 2 separate colabs
+* *2 hours* Improving equivalence and subsumption derivation/writing results to file
+* *5 hours* Implementing, generating input for and testing Hugging Face end-to-end-classifier
+* *1 hour* Debugging
+
+## Week 7
+
+### 31 Oct 2023
+* *0.5 hour* Supervisor meeting
+
+### 5 Nov 2023
+* *1 hour* Writing meeting minutes
+* *0.5 hour* Updating timelog
+* *2 hour* Debugging
+* *1 hour* Adding  logging code where necessary
+* *2 hours* Reading on cross-encoders and bi-encoders
+* *5 hours* Converting to corss-encoder & generating negative examples for training
+
+
+
+
