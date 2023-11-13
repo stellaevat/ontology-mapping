@@ -14,8 +14,8 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 3** Explore specific datasets/how to work with them & literature survey
 * **Week 4** Study BERTSubs code & literature survey
 * **Week 5** Begin basic implementation (e.g. data loading, relation extraction)
-* **Week 6**
-* **Week 7**
+* **Week 6** Hugging Face end-to-end implementation & get basic results
+* **Week 7** Work on improving results
 * **Week 8**
 * **Week 9**
 * **Week 10**
