@@ -162,3 +162,4 @@ cython_debug/
 # Reference code/ontologies
 deeponto_tool
 ontologies
+tokenized
