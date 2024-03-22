@@ -1,41 +1,19 @@
 # Readme
 
-Put a brief description of your code here. This should at least describe the file structure.
+The code for this project is split over four independent IPython Notebooks, one for each stage of the methods used. In order of use, these are:
 
-## Build instructions
+* **dataset.ipynb** : This contains methods for all dataset generation steps, including the extraction of equivalences from the ontologies of interest, the derivation of subsumptions from these, the generation of negative samples per each proposed strategy, and the generation of cross-encoder/bi-encoder input sentences for each of the feature configurations proposed. All artifacts are written to file, as part of the code.
+* **tokenization.ipynb** : This contains methods for the tokenization of the generated sentences, read from file. The results are also written to file.
+* **encoders.ipynb** : This contains the implementations of the bi-encoder and cross-encoder used, along with all the methods required to collate their datasets (from the tokenized data that is read from file), hyperparameter tune them, train them and test them. In the case of the bi-encoder there are also methods for extracting embeddings directly from the trained model to use with Faiss, and for the cross-encoder a special section is included for the final testing on the datasets produced using Faiss. All artifacts and model checkpoints are written to file.
+* **faiss.ipynb** : This contains methods for testing Faiss similarity search on bi-encoder embeddings (read from file), producing relevant plots, and then generating datasets from the top ranked candidates for further cross-encoder testing. All artifacts are written to file.
 
-**You must** include the instructions necessary to build and deploy this project successfully. If appropriate, also include 
-instructions to run automated tests. 
+## Run instructions
+
+* The notebooks can be run independently using any IPython Notebook editor (e.g. Google Colab), by running the cell with the desired code, or all cells at once to have everything run in the appropriate order.
 
 ### Requirements
 
-List the all of the pre-requisites software required to set up your project (e.g. compilers, packages, libraries, OS, hardware)
-
-For example:
-
-* Python 3.7
-* Packages: listed in `requirements.txt` 
-* Tested on Windows 10
-
-or another example:
-
-* Requires Raspberry Pi 3 
-* a Linux host machine with the `arm-none-eabi` toolchain (at least version `x.xx`) installed
-* a working LuaJIT installation > 2.1.0
-
-### Build steps
-
-List the steps required to build software. 
-
-Hopefully something simple like `pip install -e .` or `make` or `cd build; cmake ..`. In
-some cases you may have much more involved setup required.
-
-### Test steps
-
-List steps needed to show your software works. This might be running a test suite, or just starting the program; but something that could be used to verify your code is working correctly.
-
-Examples:
-
-* Run automated tests by running `pytest`
-* Start the software by running `bin/editor.exe` and opening the file `examples/example_01.bin`
+* Python 3.10.12
+* Packages: Each notebook's first cells contain installations and imports of the required packages.
+* Tested on Google Colab and Windows 10 (VS Code).
 
