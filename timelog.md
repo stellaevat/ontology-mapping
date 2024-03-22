@@ -377,7 +377,7 @@
 
 ## Week 25
 
-### 5 Feb 2024
+### 5 Mar 2024
 * *5 hours* Hyperparameter tuning
 
 ### 6 Mar 2024
@@ -402,7 +402,7 @@
 
 ## Week 26
 
-### 11 Feb 2024
+### 11 Mar 2024
 * *6 hours* Writing background section
 * *0.5 hour* Sending supervisor subsections for review
 * *0.5 hour* Preparing agenda for supervisor meeting
@@ -430,12 +430,12 @@
 
 ## Week 27
 
-### 18 Feb 2024
+### 18 Mar 2024
 * *2 hours* Hyperparameter tuning cross-encoder
 * *6 hours* Running experiments
 * *5 hours* Writing results section
 
-### 19 Feb 2024
+### 19 Mar 2024
 * *7 hours* Finishing results section
 * *2 hours* Writing conclusion
 * *2 hours* Finishing introduction
